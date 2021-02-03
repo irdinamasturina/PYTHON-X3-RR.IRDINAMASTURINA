@@ -1,2 +1,2 @@
 # PYTHON-X3-RR.IRDINAMASTURINA
-Proyek beLajar python
+Proyek belajar python
