@@ -1,2 +1,2 @@
-# PYTHON-X3-RR.IRDINAMASTURINA
+# Python-X3-Rr.IrdinaMasturina
 Proyek belajar python
