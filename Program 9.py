@@ -1,4 +1,4 @@
-num = int(input('Bilangan : '))
+num = int(input('bilangan : '))
 
 faktorial = 1
 

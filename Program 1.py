@@ -1,4 +1,4 @@
-kilometers = float(input('input valid kilometer : '))
+kilometers = float(input('Input valid kilometer : '))
 
 conv_fac = 0.621317
 

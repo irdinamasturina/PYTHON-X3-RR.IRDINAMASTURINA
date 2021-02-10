@@ -1,4 +1,4 @@
-num = int(input('Input nilai :'))
+num = int(input('input nilai :'))
 
 if (num % 2) == 0:
     print('{0} adalah genap'.format(num))
